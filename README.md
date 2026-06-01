@@ -2,8 +2,8 @@
 
 <p align="center">
   👨‍💻 Luis Felipe Dos Reis Andrade <br>
-  🎓 Computer Science – UFN (6th semester) <br>
-  💼 Intern at GestãoDS
+  🎓 control and automation engineering – IFF (4th semester) <br>
+  💼 general secretary - IEEE IFF Macae
 </p>
 
 ---
@@ -32,8 +32,6 @@
 <p align="center"><a href="mailto:yuricostamachado7@gmail.com"><img src="https://img.shields.io/badge/Gmail-2A004D?style=for-the-badge&logo=gmail&logoColor=fff"/></a>&nbsp;&nbsp;<a href="https://www.instagram.com/yuyukiin/"><img src="https://img.shields.io/badge/Instagram-2A004D?style=for-the-badge&logo=instagram&logoColor=fff"/></a>&nbsp;&nbsp;<a href="https://wa.me/55991548381"><img src="https://img.shields.io/badge/WhatsApp-2A004D?style=for-the-badge&logo=whatsapp&logoColor=fff"/></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/yuyu-alexander/"><img src="https://img.shields.io/badge/LinkedIn-2A004D?style=for-the-badge&logo=linkedin&logoColor=white"/></a></p>
 
 ---
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=003366&section=footer"/>
 
 <p align="center">
   <samp>Thank you for visiting!</samp>
