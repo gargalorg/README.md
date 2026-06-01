@@ -1,7 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=D61CF5"/>
+<img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&height=110&color=D61CF5](https://capsule-render.vercel.app/api?type=waving&height=300&color=003366&fontAlign=50&fontAlignY=50&reversal=true&section=header&descAlign=60)"/>
 
 <p align="center">
-  👨‍💻 Yuri Alexander <br>
+  👨‍💻 Luis Felipe Dos Reis Andrade <br>
   🎓 Computer Science – UFN (6th semester) <br>
   💼 Intern at GestãoDS
 </p>
