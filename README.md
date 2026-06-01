@@ -1,4 +1,4 @@
-<img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&height=110&color=D61CF5](https://capsule-render.vercel.app/api?type=waving&height=300&color=003366&fontAlign=50&fontAlignY=50&reversal=true&section=header&descAlign=60)"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=D61CF5](https://capsule-render.vercel.app/api?type=waving&height=300&color=003366&fontAlign=50&fontAlignY=50&reversal=true&section=header&descAlign=60)"/>
 
 <p align="center">
   👨‍💻 Luis Felipe Dos Reis Andrade <br>
