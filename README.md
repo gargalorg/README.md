@@ -29,7 +29,7 @@
 ---
 
 ### Contact
-<p align="center"><a href="mailto:luisfelipeandrade55@gmail.com"><img src="https://img.shields.io/badge/Gmail-2A004D?style=for-the-badge&logo=gmail&logoColor=fff"/></a>&nbsp;&nbsp;<a href="https://www.instagram.com/luisfelipereisandrade/"><img src="https://img.shields.io/badge/Instagram-2A004D?style=for-the-badge&logo=instagram&logoColor=fff"/></a>&nbsp;&nbsp;<a href="https://wa.me/55991548381"><img src="https://img.shields.io/badge/WhatsApp-2A004D?style=for-the-badge&logo=whatsapp&logoColor=fff"/></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/yuyu-alexander/"><img src="https://img.shields.io/badge/LinkedIn-2A004D?style=for-the-badge&logo=linkedin&logoColor=white"/></a></p>
+<p align="center"><a href="mailto:luisfelipeandrade55@gmail.com"><img src="https://img.shields.io/badge/Gmail-2A004D?style=for-the-badge&logo=gmail&logoColor=fff"/></a>&nbsp;&nbsp;<a href="https://www.instagram.com/luisfelipereisandrade/"><img src="https://img.shields.io/badge/Instagram-2A004D?style=for-the-badge&logo=instagram&logoColor=fff"/></a>&nbsp;&nbsp;<a href="https://wa.me/55991548381"><img src="https://img.shields.io/badge/WhatsApp-2A004D?style=for-the-badge&logo=whatsapp&logoColor=fff"/></a>&nbsp;&nbsp;</p>
 
 ---
 
